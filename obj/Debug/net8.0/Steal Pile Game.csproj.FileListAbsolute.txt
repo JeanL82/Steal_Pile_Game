@@ -1,0 +1,30 @@
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\bin\Debug\net8.0\Steal Pile Game.exe
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\bin\Debug\net8.0\Steal Pile Game.deps.json
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\bin\Debug\net8.0\Steal Pile Game.runtimeconfig.json
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\bin\Debug\net8.0\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\bin\Debug\net8.0\Steal Pile Game.pdb
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.AssemblyInfo.cs
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\refint\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.pdb
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.genruntimeconfig.cache
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\ref\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal Pile Game\Steal Pile Game\obj\Debug\net8.0\Steal Pile Game.sourcelink.json
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\bin\Debug\net8.0\Steal Pile Game.exe
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\bin\Debug\net8.0\Steal Pile Game.deps.json
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\bin\Debug\net8.0\Steal Pile Game.runtimeconfig.json
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\bin\Debug\net8.0\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\bin\Debug\net8.0\Steal Pile Game.pdb
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.AssemblyInfo.cs
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.sourcelink.json
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\refint\Steal Pile Game.dll
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.pdb
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\Steal Pile Game.genruntimeconfig.cache
+C:\Users\Jean\Desktop\POO\Steal_Pile_Game\obj\Debug\net8.0\ref\Steal Pile Game.dll
