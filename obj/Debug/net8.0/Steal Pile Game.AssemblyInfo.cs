@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Steal Pile Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b99f6ab0974228c295b727b149195ff022769071")]
 [assembly: System.Reflection.AssemblyProductAttribute("Steal Pile Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Steal Pile Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

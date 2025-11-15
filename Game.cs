@@ -25,7 +25,7 @@ namespace StealPileSimple
             Suit = s;
         }
 
-        public override string ToString() => $"{Rank} of {Suit}";
+        
     }
 
     public class Player
@@ -49,15 +49,15 @@ namespace StealPileSimple
 
         public static string CardToGlyph(Card c)
         {
-            // Parte del RANK (valor)
+            // Parte del RANk
             string r;
             if (c.Rank == Rank.A) r = "A";
             else if (c.Rank == Rank.J) r = "J";
             else if (c.Rank == Rank.Q) r = "Q";
             else if (c.Rank == Rank.K) r = "K";
-            else r = ((int)c.Rank).ToString(); // 2..10
+            else r = ((int)c.Rank).ToString(); 
 
-            // Parte del SUIT (palo)
+            // Parte del SUIT 
             string s;
             if (c.Suit == Suit.Hearts) s = "♥";
             else if (c.Suit == Suit.Diamonds) s = "♦";
@@ -253,14 +253,14 @@ namespace StealPileSimple
                 1,
                 player.Hand.Count
             );
-            idx--; // convertir a índice 0-based
+            idx--; 
 
             var played = player.Hand[idx];
             player.Hand.RemoveAt(idx);
 
             var rival = (player == p1) ? p2 : p1;
 
-            // 1) Intentar robar el pile del rival
+            //  Intentar robar el pile del rival
             Card? rivalTop = (rival.Pile.Count > 0) ? rival.Pile[rival.Pile.Count - 1] : null;
             if (rivalTop != null && rivalTop.Rank == played.Rank)
             {
@@ -271,7 +271,7 @@ namespace StealPileSimple
             }
             else
             {
-                // 2) Intentar capturar del centro
+                //  Intentar capturar del centro
                 int ci = center.FindIndex(c => c.Rank == played.Rank);
                 if (ci >= 0)
                 {
@@ -283,7 +283,7 @@ namespace StealPileSimple
                 }
                 else
                 {
-                    // 3) Dejar carta en el centro
+                    // Dejar carta en el centro
                     center.Add(played);
                     Pause($"{player.Name} deja {Ui.CardToGlyph(played)} en el centro.");
                 }
